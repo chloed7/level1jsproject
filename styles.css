@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.coin-section {
+    background-color: #A7C7E7;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+.total-section {
+    background-color: #A7C7E7;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+.five {
+    background-color: #C1E1C1;
+    color: black;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+.one {
+    background-color: #C3B1E1;
+    color: black;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
